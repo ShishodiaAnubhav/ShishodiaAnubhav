@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anubhav Shishodia
-- 👀 I’m interested in **Android Development** using *Java* and *Kotlin* Languages
-- 🌱 I’m currently Looking for a Steady Job as an Android Developer
-- 💞️ I’m looking to collaborate on Android Projects
+- 👀 I’m interested in **Android Development** and **Flutter Development**
+- 🌱 I’m currently Looking for a Steady Job as a Developer
+- 💞️ I’m looking to collaborate on Android and Flutter Projects
 - 📫 How to reach me https://www.linkedin.com/in/anubhav-shishodia/
 
 <!---
